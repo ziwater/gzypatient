@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cdm.gdhtcm.com:8028/packagedownload/ios/patient/gzypatient.ipa</string>
+					<string>http://cdm.gdhtcm.com:8028/patientdownload/ios/gdtcmpatient.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://cdm.gdhtcm.com:8028/packagedownload/ios/patient/Icon@2x.png</string>
+					<string>http://cdm.gdhtcm.com:8028/patientdownload/ios/Icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://cdm.gdhtcm.com:8028/packagedownload/ios/patient/Icon.png</string>
+					<string>http://cdm.gdhtcm.com:8028/patientdownload/ios/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
